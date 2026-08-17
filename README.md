@@ -18,4 +18,5 @@ Passionate developer exploring algorithms and data structures with a focus on Ad
 
 ### 📫 Connect
 
-[GitHub](https://github.com/RobertBoettcherSF)
+[GitHub](https://github.com/RobertBoettcherSF)  
+[Facebook](https://www.facebook.com/Sternenfisch)
