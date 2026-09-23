@@ -6,6 +6,10 @@ Implementing [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorith
 
 Catalog: [robertboettchersf.github.io](https://robertboettchersf.github.io/) · ~2000+ Ada repos · ~900+ `Ada-SPARK-*` sheets.
 
+### next 🎯 2026 Goal
+
+Put the catalog into thematically structured Repo.
+
 ---
 
 ### 👋 About
