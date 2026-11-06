@@ -31,8 +31,8 @@ Passionate developer exploring algorithms and data structures with a focus on Ad
 - [Sternenfisch-Diary](https://github.com/RobertBoettcherSF/Sternenfisch-Diary) — dated notes, now public (2026-11-06)
 - [Ada-Algorithms](https://github.com/RobertBoettcherSF/Ada-Algorithms) is the catalog: maintain and verify it
 - Ada/SPARK software, including WebAssembly demos:
-  - [ada-ai-amplifier](https://github.com/RobertBoettcherSF/ada-ai-amplifier) — readable AI building blocks; tensor kernels in SPARK
-  - [murmuration-spark](https://github.com/RobertBoettcherSF/murmuration-spark) — boids, SPARK Gold
+  - [ada-ai-amplifier](https://github.com/RobertBoettcherSF/ada-ai-amplifier) ([live](https://robertboettchersf.github.io/ada-ai-amplifier/)) — readable AI building blocks; tensor kernels in SPARK
+  - [murmuration-spark](https://github.com/RobertBoettcherSF/murmuration-spark) ([live](https://robertboettchersf.github.io/murmuration-spark/)) — boids, SPARK Gold
   - [symmetry-visualizations](https://github.com/RobertBoettcherSF/symmetry-visualizations) · [spectrum-analyzer](https://github.com/RobertBoettcherSF/spectrum-analyzer) · [colony4x](https://github.com/RobertBoettcherSF/colony4x) · [Diary-Sim](https://github.com/RobertBoettcherSF/Diary-Sim)
   - [ui-mockups](https://github.com/RobertBoettcherSF/ui-mockups) ([live](https://robertboettchersf.github.io/ui-mockups/?v=1.13.5)) · [Logistic-Manager](https://github.com/RobertBoettcherSF/Logistic-Manager)
 - Manifest (Alpha): [Make Sure Nothing Breaks](https://github.com/RobertBoettcherSF/make-sure-nothing-breaks) — rebuild essential software in Ada before using AI only as a patch layer
